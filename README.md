@@ -3,12 +3,12 @@
 
 # 1. Arquitetura MVC do projeto Abandono Zero
 
-*1.1 Descrição:* 
+1.1 **Descrição:**
 No intuito de obter dados precisos acerca das relações entre humanos e animais no que tange principalmente o abandono, a compra ou a adoção de cães,o Instituto de Saúde e Psicologia Animal(INSPA), juntamente com o Instituto de Tecnologia e Lidença, de forma voluntária iniciaram o desenvolvimento da aplicação Web Abandono Zero. Nesse aspecto, para a realização desse projeto, a arquitetura MVC é essencial, para que de forma clara e objetiva, seja possível observar a relação de cada segmento do site com o banco de dados da plataforma.
 
-*1.2 Arquitetura:* MVC (Model-View-Controller)
+1.2 **Arquitetura:** MVC (Model-View-Controller)
 
-*1.3 Ferramenta de Diagramação:* draw.io
+1.3 **Ferramenta de Diagramação:** draw.io
 
 ## 2. Modelos (Models):
 
